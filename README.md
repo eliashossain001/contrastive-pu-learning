@@ -68,6 +68,13 @@ python main.py
 
 ---
 
+## 👨‍💼 Author
+
+**Elias Hossain**  
+_Machine Learning Researcher | PhD Student | AI x Reasoning Enthusiast_
+
+[![GitHub](https://img.shields.io/badge/GitHub-EliasHossain001-blue?logo=github)](https://github.com/EliasHossain001)
+
 ## Citation
 
 If you use this code, consider citing this repository or the relevant research idea behind ConPU learning.
