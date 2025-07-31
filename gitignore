@@ -1,0 +1,48 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+.env
+.venv
+env/
+venv/
+ENV/
+.eliasenv/
+*.egg-info/
+
+# VSCode
+.vscode/
+
+# MacOS / Linux / Windows system files
+.DS_Store
+Thumbs.db
+
+# Logs and outputs
+*.log
+*.out
+*.tmp
+
+# Data artifacts
+*.csv
+*.tsv
+*.xlsx
+*.pkl
+*.npz
+*.npy
+
+# Model checkpoints
+checkpoints/
+*.pt
+*.pth
+
+# Generated plots and figures
+*.png
+*.pdf
+*.svg
