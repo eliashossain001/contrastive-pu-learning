@@ -23,6 +23,7 @@ conpu_pu_learning/
 ├── config/                 # Hyperparameters and constants
 ├── data/                  # Data loader + normalization
 ├── models/                # Encoder + Losses
+├── notebook/                # Notebook for Google Colab
 ├── train/                 # Stage 1/2 training + inference
 ├── utils/                 # Dataset loader and metrics
 ├── tsne/                  # Visualization for t-SNE
