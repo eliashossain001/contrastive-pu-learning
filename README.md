@@ -78,6 +78,7 @@ _Machine Learning Researcher | PhD Student | AI x Reasoning Enthusiast_
 
 ## Citation
 
+```
 @misc{hossain2025learningrobustrepresentationsmalicious,
       title={Learning Robust Representations for Malicious Content Detection via Contrastive Sampling and Uncertainty Estimation}, 
       author={Elias Hossain and Umesh Biswas and Charan Gudla and Sai Phani Parsa},
@@ -87,3 +88,4 @@ _Machine Learning Researcher | PhD Student | AI x Reasoning Enthusiast_
       primaryClass={cs.LG},
       url={https://arxiv.org/abs/2512.08969}, 
 }
+```
