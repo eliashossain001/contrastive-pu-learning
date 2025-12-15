@@ -78,4 +78,12 @@ _Machine Learning Researcher | PhD Student | AI x Reasoning Enthusiast_
 
 ## Citation
 
-If you use this code, consider citing this repository or the relevant research idea behind ConPU learning.
+@misc{hossain2025learningrobustrepresentationsmalicious,
+      title={Learning Robust Representations for Malicious Content Detection via Contrastive Sampling and Uncertainty Estimation}, 
+      author={Elias Hossain and Umesh Biswas and Charan Gudla and Sai Phani Parsa},
+      year={2025},
+      eprint={2512.08969},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2512.08969}, 
+}
